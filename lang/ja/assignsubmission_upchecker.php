@@ -10,12 +10,12 @@ $string['enabled_help'] = '有効にした場合、学生は1つまたはそれ�
 $string['eventassessableuploaded'] = 'ファイルがアップロードされました。';
 $string['file'] = 'ファイル提出';
 $string['maxbytes'] = '最大ファイルサイズ';
-$string['maxfilessubmission'] = '最大アップロードファイル数 (プログラミング)';
+$string['maxfilessubmission'] = '最大アップロードファイル数(upchecker)';
 $string['maxfilessubmission_help'] = '有効にした場合、学生はこの数のファイルまで提出にアップロードすることができます。';
-$string['maximumsubmissionsize'] = '最大提出サイズ (プログラミング)';
+$string['maximumsubmissionsize'] = '最大提出サイズ(upchecker)';
 $string['maximumsubmissionsize_help'] = '学生は最大このサイズまでファイルをアップロードすることができます。';
 $string['numfilesforlog'] = 'ファイル数 : {$a} ファイル';
-$string['pluginname'] = 'プログラミング';
+$string['pluginname'] = 'アップロードチェッカー';
 $string['siteuploadlimit'] = 'サイトアップロード上限';
 $string['submissionfilearea'] = 'アップロード済み提出ファイル';
 
