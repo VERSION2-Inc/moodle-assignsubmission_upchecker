@@ -9,7 +9,8 @@ moodle本体サーバーに組み込むことができないライブラリ等(�
 
 ## インストール
 
-ファイルをmod/assign/submissionディレクトリに移動してください。
+mod/assign/submissionに upcheckerディレクトリを作成して、
+upchecker直下にプログラムをアップロードしてください。
 
 ## 注意事項 Warning
 
